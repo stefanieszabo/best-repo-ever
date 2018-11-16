@@ -3,4 +3,5 @@ Test repository for the Salesforce Trailhead module "Work with the GitHub Workfl
 
 This is a test for the add and commit commands of the Git Bash!
 
-Let's create a huge merge conflict!
+Let's create a merge conflict!
+
